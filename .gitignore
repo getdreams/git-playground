@@ -1,0 +1,9 @@
+# Backup files
+*.bak
+*.backup
+
+# Env file
+*.env
+
+# JetBrains dir
+.idea/
